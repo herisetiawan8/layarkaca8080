@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/layarkaca8080/static/css/main.c6bb92b3.css",
+    "main.js": "/layarkaca8080/static/js/main.270c34d3.js",
+    "static/js/787.5398942e.chunk.js": "/layarkaca8080/static/js/787.5398942e.chunk.js",
+    "static/media/batman.jpg": "/layarkaca8080/static/media/batman.a4f1e1f71e0199f3706a.jpg",
+    "static/media/scifi.jpg": "/layarkaca8080/static/media/scifi.c79c099455be1acc56de.jpg",
+    "static/media/spiderman1.jpg": "/layarkaca8080/static/media/spiderman1.c16d87a6ecd37cc99242.jpg",
+    "static/media/main.jpg": "/layarkaca8080/static/media/main.ef5d8cb56c6d853dbcd4.jpg",
+    "static/media/spiderman.jpg": "/layarkaca8080/static/media/spiderman.ab97ee98e8573a82cea1.jpg",
+    "static/media/langitbiru.jpg": "/layarkaca8080/static/media/langitbiru.be8cda7a34317bde34e2.jpg",
+    "static/media/ironman.jpg": "/layarkaca8080/static/media/ironman.6465180fe386f3c82288.jpg",
+    "static/media/ranah3warna.jpg": "/layarkaca8080/static/media/ranah3warna.8f7a3c1d9ae4d16adf8a.jpg",
+    "static/media/movie1.jpg": "/layarkaca8080/static/media/movie1.90aac40131760ae7b33a.jpg",
+    "static/media/bumiitubulat.jpg": "/layarkaca8080/static/media/bumiitubulat.d337d62818d2c070cb66.jpg",
+    "static/media/tekatekitika.jpg": "/layarkaca8080/static/media/tekatekitika.0b93bfffcf3c9c3b90c7.jpg",
+    "static/media/partikelir.jpg": "/layarkaca8080/static/media/partikelir.bc789aa6ef842c0e8b48.jpg",
+    "static/media/joker.jpg": "/layarkaca8080/static/media/joker.5e01cebb7c8d4f79dbca.jpg",
+    "static/media/alien.jpg": "/layarkaca8080/static/media/alien.29e0225261ceb46d197c.jpg",
+    "static/media/malikelsa.jpg": "/layarkaca8080/static/media/malikelsa.dcbfc39690f303c94c7e.jpg",
+    "static/media/laskarpelangi.jpg": "/layarkaca8080/static/media/laskarpelangi.cf845c4395000fbdc951.jpg",
+    "index.html": "/layarkaca8080/index.html",
+    "main.c6bb92b3.css.map": "/layarkaca8080/static/css/main.c6bb92b3.css.map",
+    "main.270c34d3.js.map": "/layarkaca8080/static/js/main.270c34d3.js.map",
+    "787.5398942e.chunk.js.map": "/layarkaca8080/static/js/787.5398942e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6bb92b3.css",
+    "static/js/main.270c34d3.js"
+  ]
+}
